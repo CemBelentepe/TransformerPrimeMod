@@ -1,0 +1,16 @@
+[
+{
+  "modid": "tfp",
+  "name": "Transformers Prime Mod",
+  "description": "Brings Transfermers Prime Universe to Minecraft. Also tutorial mod for TheCCB's channel",
+  "version": "0.1",
+  "mcversion": "1.12",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["TheCCB"],
+  "credits": "All audiancse of the TheCCB's channel",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

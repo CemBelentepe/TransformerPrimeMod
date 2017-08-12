@@ -1,0 +1,6 @@
+{
+    "parent": "tfp:item/standard_item",
+    "textures": {
+        "layer0": "tfp:items/energon"
+    }
+}
